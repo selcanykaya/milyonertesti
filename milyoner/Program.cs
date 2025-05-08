@@ -12,7 +12,7 @@ if(cevap1 == dogrucevap1)
     Console.WriteLine("Tebrikler doğru cevap");
     dogrusayisi += 1; //doğru cevap sayısı 1 arttırıldı.
 }
-}
+
 else
 {
     Console.WriteLine("Yanlış cevap");
